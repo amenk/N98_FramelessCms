@@ -1,0 +1,12 @@
+tables:
+  cms/page:
+    - page_id: 1
+      title: Test
+      root_template: one_column
+      identifier: test
+      content: Test Content
+
+  cms/page_store:
+    - page_id: 1
+      store_id: 1
+

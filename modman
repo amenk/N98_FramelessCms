@@ -1,0 +1,3 @@
+src/app/code/community/N98/FramelessCms                             app/code/community/N98/FramelessCms
+src/app/etc/modules/*                                               app/etc/modules/
+src/app/design/frontend/base/default/layout/n98/framelesscms.xml    app/design/frontend/base/default/layout/n98/framelesscms.xml

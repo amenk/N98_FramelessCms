@@ -1,0 +1,8 @@
+<layout version="0.1.0">
+    <frameless_page_view>
+        <reference name="root">
+            <action method="setTemplate"><template>page/popup.phtml</template></action>
+            <remove name="breadcrumbs" />
+        </reference>
+    </frameless_page_view>
+</layout>

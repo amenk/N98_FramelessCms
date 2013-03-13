@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   N98
+ * @package    N98_FramelessCms
+ */
+ -->
+<config>
+    <modules>
+        <N98_FramelessCms>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Cms />
+                <!-- for EE
+                <Enterprise_PageCache />
+                -->
+            </depends>
+        </N98_FramelessCms>
+    </modules>
+</config>

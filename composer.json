@@ -1,0 +1,16 @@
+{
+    "name": "n98/N98_FramelessCms",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Small module to display a CMS page in a popup or lightbox.",
+    "homepage": "https://github.com/netz98/N98_FramelessCms",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"netz98 new media GmbH",
+            "email":"magento@netz98.de"
+        }
+    ]
+}
